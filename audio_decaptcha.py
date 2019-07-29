@@ -41,8 +41,8 @@ pyautogui.press('enter')
 go(CAPTCHA_COORDS[0], CAPTCHA_COORDS[1])
 pyautogui.click()
 
-# ÀÌ ÁöÁ¡¿¡¼­ Ä¸Â÷ ³¡³¯ ¼öµµ ÀÖÀ½.
-# »çÀÌÆ®¿¡ ¿¬¼ÓÀûÀ¸·Î µé¾î°¡´Â °Í ¾Æ´Ï¶ó¸é, ¼º°ø °¡´É¼º ³ôÀ½
+# ì´ ì§€ì ì—ì„œ ìº¡ì°¨ ëë‚  ìˆ˜ë„ ìžˆìŒ.
+# ì‚¬ì´íŠ¸ì— ì—°ì†ì ìœ¼ë¡œ ë“¤ì–´ê°€ëŠ” ê²ƒ ì•„ë‹ˆë¼ë©´, ì„±ê³µ ê°€ëŠ¥ì„± ë†’ìŒ
 
 time.sleep(1.0)
 go(AUDIO_COORDS[0], AUDIO_COORDS[1])
